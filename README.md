@@ -1,5 +1,7 @@
 # Architectural Website  
 This project is an architectural website designed to showcase architectural projects and blueprints. The website features a dynamic **Home Page**, a **Portfolio Page** displaying completed projects, a **Blueprint Section** for users to view and download project blueprints, and a **Signup/Login System** for user authentication. Built with **React** for the frontend, it ensures a smooth and responsive user experience. The backend is powered by **Node.js** and **MongoDB**, providing robust data management and API functionality. This project seamlessly combines aesthetics and functionality, making it a valuable platform for architects and users to interact with architectural designs.
+
+
 ![{FBFD1EC0-3C3F-4F49-A69B-F4EE035CFED3}](https://github.com/user-attachments/assets/e57716b6-d4dd-4f76-9e62-e450cf5402f9)
 ![{E8CBBFED-ABF3-4736-8C39-5859E9EC2837}](https://github.com/user-attachments/assets/b2c40083-da21-48df-859b-aef776a30a72)
 ![{70B752D5-5C04-4D42-B68D-DE5BDC3B4DD7}](https://github.com/user-attachments/assets/70305017-7bbd-4948-90e9-6e9b8317e4e5)
